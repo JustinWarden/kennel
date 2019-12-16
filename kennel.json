@@ -1,0 +1,84 @@
+{
+  "animals": [
+    {
+      "id": 2,
+      "name": "Decker",
+      "breed": "stink monkey",
+      "employeeId": 1
+    },
+    {
+      "id": 3,
+      "name": "Esme",
+      "breed": "Pitbull",
+      "employeeId": 2
+    },
+    {
+      "id": 4,
+      "name": "monkey",
+      "breed": "Pitbull",
+      "employeeId": 3
+    },
+    {
+      "id": 4,
+      "name": "jiggles",
+      "breed": "jigglepuff",
+      "employeeId": 2
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Footrot Jinkens the first",
+      "type": "full-time"
+    },
+    {
+      "id": 2,
+      "name": "stinky joe matinezzzz",
+      "type": "full-time"
+    },
+    {
+      "id": 3,
+      "name": "Plump Belly Bill",
+      "type": "full-time"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Buffalo Bill",
+      "type": "part-time"
+    },
+    {
+      "id": 2,
+      "name": "Teddy Bundy",
+      "type": "part-time"
+    },
+    {
+      "id": 3,
+      "name": "Billy Nye",
+      "type": "fart-time"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Red Planet Mars",
+      "address": "red fungus land"
+    },
+    {
+      "id": 2,
+      "name": "yellow garbage planet",
+      "address": "blue planet avenue"
+    },
+    {
+      "id": 3,
+      "name": "Green Planet X",
+      "address": "789 Gas Giant Street"
+    },
+    {
+      "id": 4,
+      "name": "MeatLover Lane",
+      "address": "meatpie"
+    }
+  ]
+}

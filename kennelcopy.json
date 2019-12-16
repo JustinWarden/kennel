@@ -1,0 +1,24 @@
+{
+    "animals": [
+        { "id": 1, "name": "Doodles", "breed": "Poodle"},
+        { "id": 2, "name": "Decker", "breed": "German Sheperd" },
+        { "id": 3, "name": "Esme", "breed": "Pitbull" }
+    ],
+
+    "employees": [
+        { "id": 1, "name": "Footrot Jinkens", "type": "full-time"},
+        { "id": 2, "name": "StinkPickle MCgirk", "type":"full-time"},
+        { "id": 3, "name": "Plump Belly Bill", "type": "full-time"}
+    ],
+
+    "owners": [
+        { "id": 1, "name": "Buffalo Bill", "type": "part-time"},
+        { "id": 2, "name": "Teddy Bundy", "type":"part-time"},
+        { "id": 3, "name": "Billy Nye", "type": "fart-time"}
+    ],
+    "locations": [
+        { "id": 1, "name": "Red Planet Mars", "type": "123 mars lane"},
+        { "id": 2, "name": "Blue Planet Neptune", "type":"456 neptune ocean"},
+        { "id": 3, "name": "Green Planet X", "type": "789 Gas Giant Street"}
+    ]
+}
